@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "6478027929.com.nasi.jade",
+        "paths": ["/your-path/*"]
+      }
+    ]
+  }
+}
