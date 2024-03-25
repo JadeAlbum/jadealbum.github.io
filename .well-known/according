@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "UADRPTMUML.com.nasi.jade",
+        "paths": ["/invite/*"]
+      }
+    ]
+  }
+}
