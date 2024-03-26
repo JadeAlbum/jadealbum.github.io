@@ -4,7 +4,9 @@
     "details": [
       {
         "appID": "UADRPTMUML.com.nasi.jade",
-        "paths": ["*"]
+        "paths": ["/",
+          "/*",
+          "/*?code=*"]
       }
     ]
   }
